@@ -1,0 +1,2 @@
+# fomo
+money fomo
